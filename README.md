@@ -40,5 +40,7 @@
         <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white" alt="LinkedIn">
     </a>
 </div>
+<br>
+<br>
 
 [![gitanimals](https://render.gitanimals.org/farms/CroinDA)](https://github.com/devxb/gitanimals)
