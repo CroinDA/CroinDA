@@ -43,4 +43,10 @@
 <br>
 <br>
 
-[![gitanimals](https://render.gitanimals.org/farms/CroinDA)](https://github.com/devxb/gitanimals)
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=CroinDA&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/CroinDA"
+  width="600"
+  height="300"
+/>
+</a>
